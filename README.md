@@ -1,0 +1,1 @@
+A grocery list categorizer using ollama3.2
